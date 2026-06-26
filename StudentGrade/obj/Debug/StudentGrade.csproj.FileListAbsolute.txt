@@ -1,0 +1,7 @@
+C:\Users\Siwani Khatri\Desktop\StudentGrade\StudentGrade\bin\Debug\StudentGrade.exe.config
+C:\Users\Siwani Khatri\Desktop\StudentGrade\StudentGrade\bin\Debug\StudentGrade.exe
+C:\Users\Siwani Khatri\Desktop\StudentGrade\StudentGrade\bin\Debug\StudentGrade.pdb
+C:\Users\Siwani Khatri\Desktop\StudentGrade\StudentGrade\obj\Debug\StudentGrade.csproj.AssemblyReference.cache
+C:\Users\Siwani Khatri\Desktop\StudentGrade\StudentGrade\obj\Debug\StudentGrade.csproj.CoreCompileInputs.cache
+C:\Users\Siwani Khatri\Desktop\StudentGrade\StudentGrade\obj\Debug\StudentGrade.exe
+C:\Users\Siwani Khatri\Desktop\StudentGrade\StudentGrade\obj\Debug\StudentGrade.pdb
